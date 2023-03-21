@@ -23,12 +23,12 @@ struct MainView: View {
                     // Card for each author
                     ForEach(model.quotes) { a in
                         
-                        // Link to detail view
-                        NavigationLink(
-                            destination: DetailView(quote: a),
-                            label: {
-                                CardView(quote: a, image: "1")
-                            })
+                    // Link to detail view
+                    NavigationLink(
+                        destination: DetailView(quote: a),
+                        label: {
+                            CardView(quote: a, image: "1")
+                        })
                     }
                 }
                 
