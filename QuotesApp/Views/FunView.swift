@@ -9,7 +9,7 @@ import SwiftUI
 
 struct FunView: View {
     var body: some View {
-        Text("Hello, Alex!")
+        Text("Hello, Duy!")
     }
 }
 
