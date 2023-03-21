@@ -17,6 +17,7 @@
 		FA420A8429CA162900611A3B /* QuoteModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA420A8329CA162900611A3B /* QuoteModel.swift */; };
 		FA420A8629CA1CA600611A3B /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA420A8529CA1CA600611A3B /* CardView.swift */; };
 		FA420A8829CA24C800611A3B /* DetailView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA420A8729CA24C800611A3B /* DetailView.swift */; };
+		FA420A8A29CA739800611A3B /* FunView.swift in Sources */ = {isa = PBXBuildFile; fileRef = FA420A8929CA739800611A3B /* FunView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		FA420A8329CA162900611A3B /* QuoteModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuoteModel.swift; sourceTree = "<group>"; };
 		FA420A8529CA1CA600611A3B /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 		FA420A8729CA24C800611A3B /* DetailView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailView.swift; sourceTree = "<group>"; };
+		FA420A8929CA739800611A3B /* FunView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FunView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 				FA420A6C29CA0F5800611A3B /* MainView.swift */,
 				FA420A8529CA1CA600611A3B /* CardView.swift */,
 				FA420A8729CA24C800611A3B /* DetailView.swift */,
+				FA420A8929CA739800611A3B /* FunView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -200,6 +203,7 @@
 				FA420A6D29CA0F5800611A3B /* MainView.swift in Sources */,
 				FA420A7C29CA0F9800611A3B /* Quote.swift in Sources */,
 				FA420A8829CA24C800611A3B /* DetailView.swift in Sources */,
+				FA420A8A29CA739800611A3B /* FunView.swift in Sources */,
 				FA420A6B29CA0F5800611A3B /* QuotesApp.swift in Sources */,
 				FA420A8629CA1CA600611A3B /* CardView.swift in Sources */,
 				FA420A8029CA109900611A3B /* DataService.swift in Sources */,
